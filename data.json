@@ -7,9 +7,9 @@
   "project": "Corporate Park",
   "summary": "Office | 1 space available | 2,014 SqFt",
   "images": [
-    "./1.jpg",
-    "./ColoredRivieraCommercialogo.jpg",
-    "./Llprofilepic.png"
+    "images/1.jpg",
+    "images/ColoredRivieraCommercialogo.jpg",
+    "images/Llprofilepic.png"
   ],
   "brochure_url": "https://example.com/property-brochure.pdf",
   "at_a_glance": [
