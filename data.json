@@ -129,7 +129,7 @@
     "name": "David Boatwright",
     "phone": "850.527.1623",
     "email": "David.Boatwright@svn.com",
-    "profileImage": "./profile.png",
+    "profileImage": "images/profile.png",
     "companyLogo": "./ColoredRivieraCommercialogo.jpg",
     "companyWebsite": "https://www.rivieracommercial.com/",
     "companyPhone": "888.240.0499"
