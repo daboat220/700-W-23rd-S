@@ -1,3 +1,4 @@
+
 {
   "id": "chipley-industrial-park",
   "title": "700 W 23rd St",
@@ -7,9 +8,9 @@
   "project": "Corporate Park",
   "summary": "Office | 1 space available | 2,014 SqFt",
   "images": [
-    "images/1.jpg",
-    "images/logo.jpg",
-    "images/profile.png"
+    "./1.jpg",
+    "./logo.jpg",
+    "./profile.png"
   ],
   "brochure_url": "https://example.com/property-brochure.pdf",
   "at_a_glance": [
@@ -128,7 +129,7 @@
     "name": "David Boatwright",
     "phone": "850.527.1623",
     "email": "David.Boatwright@svn.com",
-    "profileImage": "images/profile.png",
+    "profileImage": "./profile.png",
     "companyLogo": "./ColoredRivieraCommercialogo.jpg",
     "companyWebsite": "https://www.rivieracommercial.com/",
     "companyPhone": "888.240.0499"
